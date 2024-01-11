@@ -1,4 +1,32 @@
+.container-fluid{
+    height: 150px;
+    margin-top:20px;
 
+}
+.row{
+    height: 100%;
+}
+.fa-clock{
+    font-size: 50px;
+    padding-top: 20px;
+}
+.block{
+    color:white;
+    border: 3px solid #444242;
+    background-color: #313030;
+    border-radius: 5px;
+    height: 75%;
+    width: 70%;
+    padding:5px;
+    text-align: center;
+    margin-top: 20px;
+}
+.block:only-child{
+    font-size: 50px;
+}
+h1{
+    padding-top: 20px;
+}
 /* 
 
     You can write your own styles here...
